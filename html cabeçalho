@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Topo Correio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="topo-geral">
+
+        <div class="container">
+            
+            <div class="barra-superior">
+                <div class="menu-esquerda">
+                    <a class="assine" href="#">Assine</a>
+                    <a href="#">Últimas</a>
+                    <a href="#">Minha Bahia</a>
+                    <a href="#">Salvador</a>
+                    <a href="#">Esportes</a>
+                    <a href="#">Sua Diversão</a>
+                    <a href="#">Brasil & Mundo</a>
+                    <a href="#">Só se vê no Correio</a>
+                    <a href="#">Assinantes</a>
+                </div>
+            </div>
+
+            <div class="linha"></div>
+
+            <div class="parte-baixo">
+                <div class="logo">
+                    <img src="imagens/correio.png" alt="Correio">
+                </div>
+
+                <div class="info-direita">
+                    <p>14:10 • 15 de Março de 2023</p>
+
+                    <div class="redes">
+                        <a href="#">Facebook</a>
+                        <a href="#">Twitter</a>
+                        <a href="#">Instagram</a>
+                        <a href="#">Youtube</a>
+                        <a href="#">RSS</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
